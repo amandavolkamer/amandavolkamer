@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/yourimage.jpg](https://github.com/amandavolkamer/amandavolkamer/blob/main/bluebells-in-the-forest-with-sunlight-shining-through-the-trees-background-free-photo.jpg)" alt="Banner" width="100%" />
+  <img src="https://github.com/amandavolkamer/amandavolkamer/blob/e08b989f0fecd877ae39ac1e5a5f44a790db949b/bluebells-in-the-forest-with-sunlight-shining-through-the-trees-background-free-photo.jpg" alt="Banner" width="100%" />
 </p>
 
 # Hi there, I'm Amanda! 👋
