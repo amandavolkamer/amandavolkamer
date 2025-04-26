@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/amandavolkamer/amandavolkamer/blob/e08b989f0fecd877ae39ac1e5a5f44a790db949b/bluebells-in-the-forest-with-sunlight-shining-through-the-trees-background-free-photo.jpg" alt="Banner" width="100%" />
+  <img src="https://github.com/amandavolkamer/amandavolkamer/blob/32dce79735ecddcb389b4b82e4724dcbc92fc3fb/Banner%20cropped.png" alt="Banner" width="100%" />
 </p>
 
 # Hi there, I'm Amanda! 👋
