@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/yourimage.jpg" alt="Banner" width="100%" />
+</p>
+
 # Hi there, I'm Amanda! 👋
 
 Welcome to my GitHub! I'm passionate about automation, data-driven decision-making, process improvement, and creative problem solving. With experience leading teams, designing training programs, and implementing data solutions, I love using technology to make work smarter, faster, and more impactful.
