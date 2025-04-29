@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm passionate about automation, data-driven decision-maki
 
 ### 🔧 Skills & Tools
 - ⚙️ **Data & Automation**: Power Automate, SQL, Python, SPSS
-- 📊 **Data Analysis & Visualization**: Excel (advanced formulas, PivotTables, Power Query), Power BI
+- 📊 **Data Analysis & Visualization**: Excel (VLOOKUP,advanced formulas, PivotTables, Power Query), Power BI
 - 🔄 **Workflow & Process Improvement**: Business Process Documentation, Automation Development, RPA (Robotic Process Automation)
 - 🛠️ **Project Tools**: SharePoint, Salesforce Lightning, Microsoft Suite (Teams, OneNote, Lists, Forms, Visio), Confluence
 
